@@ -1,0 +1,29 @@
+{
+  "name": "imaimiami.github.io",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular2": "2.0.0-alpha.44",
+    "systemjs": "0.19.2"
+  },
+  "devDependencies": {
+    "live-server": "^0.8.2",
+    "typescript": "^1.8.10"
+  },
+  "scripts": {
+    "tsc": "tsc -p js -w",
+    "start": "live-server --open=src"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imaimiami/imaimiami.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imaimiami/imaimiami.github.io/issues"
+  },
+  "homepage": "https://github.com/imaimiami/imaimiami.github.io#readme",
+  "description": ""
+}
